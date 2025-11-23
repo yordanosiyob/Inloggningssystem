@@ -8,14 +8,6 @@ obj/
 *.userosscache
 *.sln.docstates
 
-# VS Code files
-.vscode/
+# Visual Studio cache
+.vs/
 
-# NuGet
-*.nupkg
-packages/
-*.snupkg
-
-# Others
-*.log
-*.vs/
